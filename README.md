@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shekugimi
+- 👋 Hi, I’m Abhishek Parmar @shekugimi
 - 👀 I’m interested in Web development and programming
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on websites
